@@ -1,0 +1,49 @@
+h2{
+    color: #D4D4D2;
+
+}
+
+h1 {
+    color: white;
+    margin-block-start: 0em;
+}
+
+textarea {
+    width: 100%;
+    margin-top: 2em;
+}
+
+.input_area {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input{
+    height: 1.5em;
+}
+
+.container {
+    background-color: #1C1C1C;
+    display: inline-flex;
+    padding: 1em;
+    border-radius: 1em;
+    flex-direction: column;
+    align-items: center;
+    width: 20em;
+}
+
+.area {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+button {
+    height: 3em;
+    width: 100%;
+    background-color: #FF9500;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
